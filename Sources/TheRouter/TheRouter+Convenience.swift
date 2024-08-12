@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+import DynamicMapping
 public extension TheRouter {
     
     /// addRouterItem with parasing the dictionary, the class which match the className need inherit the protocol of TheRouterable

@@ -7,6 +7,7 @@
 
 import Foundation
 import UIKit
+import DynamicMapping
 
 // extension of viewcontroller jump for TheRouter
 extension TheRouter {
